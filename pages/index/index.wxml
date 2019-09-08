@@ -10,6 +10,8 @@
   </view>
   无论发生什么，我将在你身边 艳杰小宝宝
   <br/>
+  <br/>
+  yj 2019-09-08 周日
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
