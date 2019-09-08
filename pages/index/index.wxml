@@ -12,6 +12,8 @@
   <br/>
   <br/>
   yj 2019-09-08 周日
+  <br/>
+  第二次写第二行 yj
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
