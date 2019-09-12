@@ -1,18 +1,33 @@
-<!--index.wxml-->
 <view class="container">
-  白日依山尽，黄河入海流
-  <view class="userinfo">
-    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
-    <block wx:else>
-      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
-      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+  <swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+    <block wx:for="{{imgUrls}}">
+      <swiper-item>
+        <image src="{{item}}" class="slide-image" width="100%" height="100%" />
+      </swiper-item>
     </block>
+  </swiper>
+  <view class='menuTab'>
+    <view class='menuLis {{actIndex=="first"?"actColor":""}}' id='first' bindtap="changeMenu">彩铅画</view>
+    <view class='menuLis {{actIndex=="second"?"actColor":""}}' id='second' bindtap="changeMenu">水彩画</view>
+    <view class='menuLis {{actIndex=="third"?"actColor":""}}' id='third' bindtap="changeMenu">简笔画</view>
   </view>
-  无论发生什么，我将在你身边 艳杰小宝宝
-  <br/>
-  <br/>
-  yj 2019-09-08 周日
-  <view class="usermotto">
-    <text class="user-motto">{{motto}}</text>
-  </view>
+  <scroll-view scroll-y style="flex:1;overflow:hidden;" bindscrolltoupper="upper" bindscrolltolower="lower" bindscroll="scroll" scroll-into-view="{{toView}}" scroll-top="{{scrollTop}}">
+    <view class='leassonListOut' wx:for="{{leassonList}}" wx:key="{{item.id}}">
+      <view class='leassonList' data-id="{{item.id}}" bindtap="seeDetail">
+        <view class='listIn'>
+          <view class='leassonImg'>
+            <image src="{{item.imgUrl}}" class='leassonImgs' />
+          </view>
+          <view class='leassonTitle'>
+            <view class='title'>
+              {{item.title}}
+            </view>
+            <view class='author'>
+              作者：{{author}}
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </scroll-view>
 </view>

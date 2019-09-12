@@ -1,0 +1,5 @@
+/* pages/discover/discover.wxss */
+.center_{
+  text-align: center;
+}
+
