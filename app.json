@@ -5,7 +5,8 @@
     "pages/detail/detail",
     "pages/my/my",
     "pages/test/test",
-    "pages/discover/discover"
+    "pages/discover/discover",
+    "pages/discover/yj/index"
   ],
   "window": {
     "backgroundTextStyle": "light",

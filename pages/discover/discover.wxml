@@ -2,4 +2,7 @@
   <view class="center_">
     山的那边海的那边是什么？ 去发现吧 fighting ~
   </view>
+  <button type="primary" bindtap="yjPage">艳杰</button>
+  <br/>
+  <button type="primary" bindtap="tiantianPage">甜甜</button>
 </view>

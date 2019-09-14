@@ -1,11 +1,10 @@
-var dataList = [
-  {
+var dataList = [{
     "id": 5,
     "imgUrl": "https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlE2U5aRjrb6daAWWvXQkh7hskQEEX9Hnc9HpicK8j7WHCIpxJcXibIn9CHqM6u1XzUsnwgXaBeES3Aw/0?wx_fmt=jpeg",
     "title": "教程（5）有趣又简单的挤娃娃画",
     "leassonType": 1,
     "html": "<p>最近有段时间没有更新公众号了画画很简单，码字却很难，每次当我编辑文档的时候，总觉得自己语言组织有问题，然后给自己找了借口，一拖再拖。<br/>前几天偶然看到有关注我的人问我什么时候更新，当时看到私信，觉得很开心，原来还有很多人在默默的等我，责任感便油然而生，告诫自己要制定计划了，不然对不起大家的厚爱。</p><p><img src='https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlE2U5aRjrb6daAWWvXQkh7hskQEEX9Hnc9HpicK8j7WHCIpxJcXibIn9CHqM6u1XzUsnwgXaBeES3Aw/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1'>&nbsp;</p><p>&nbsp;<strong>目前计划一周更三次，每周一三五更新</strong><br></p>好啦，开始介绍今天的教程吧，今天来画好玩的挤娃娃，线稿简单，图案灵活，自己可以根据想象力去做些改变，做出属于自己的挤娃娃吧～&nbsp;&nbsp;<br><p><img src='https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlE2U5aRjrb6daAWWvXQkh7hVHuEx4cCmu32hAxN4iaWicHeXW7nEYwZfeZnhN15b7zRB2O3LnL5NYKA/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1'>&nbsp;&nbsp;<br></p><p>一,准备工具：</p><p>铅笔，橡皮，纸以及针管笔</p><p><img src='https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlE2U5aRjrb6daAWWvXQkh7h1nWUKVZPbTLeEdUZv0NhQlOaKLL2wFqX3QfmraZBB1IZnEQqtKicibcQ/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1'>&nbsp;&nbsp;<br></p><p>画线稿</p><p><br></p><p><img src='https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlE2U5aRjrb6daAWWvXQkh7h84AnmicDNWNNw834f8iaGubBiavRYdT31g48E5rpZ6cbXn827RibicRdcHg/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1'></p><p><br></p><p>图片基础结构是这样的，画一些堆在一起的椭圆形，然后丰富他们的表情等细节。<br></p><p><br></p><p><img src='https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlE2U5aRjrb6daAWWvXQkh7hdFdIUUKR2gb6niab48DeYXg3Qygw33k2otkcWVrXvjWnRgrhJNOtLXg/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1'></p><p><br></p><p>最终线稿如图</p><p><br></p><p><img src='https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlE2U5aRjrb6daAWWvXQkh7hxCr8gw1ealicvymKcWZcyF5OEByiaLbYACdTEH4FhpeiaaHNzMicKFribyw/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1'></p><p><br></p><p>三，勾线</p><p>用针管笔勾线，我用的是樱花04号，没有针管笔也没关系，用普通中性笔也行</p><p><br></p><p><img src='https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlE2U5aRjrb6daAWWvXQkh7h9ICKf2aqFMOnHVvD5JjZA0Q941FJECw1p11YT4R8mTJROEbpI9hiaLw/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1'></p><p>勾线的时候，可以对一些没画好的部分进行调整，勾线的时候放松心情。</p><p>勾完线后，别忘了擦去铅笔印哦，千万要等针管笔迹干后再擦哦～</p><p></p><p>ok,画好啦，拍个照，去发个朋友圈咯～</p><p><br></p><p><img src='https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlE2U5aRjrb6daAWWvXQkh7hskQEEX9Hnc9HpicK8j7WHCIpxJcXibIn9CHqM6u1XzUsnwgXaBeES3Aw/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1'></p><p><br></p><p><img src='https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlE2U5aRjrb6daAWWvXQkh7hVHuEx4cCmu32hAxN4iaWicHeXW7nEYwZfeZnhN15b7zRB2O3LnL5NYKA/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1'></p><p><br></p>",
-    "time":"2017-09-20"
+    "time": "2017-09-20"
   },
   {
     "id": 6,
@@ -96,10 +95,10 @@ var dataList = [
     "time": "2018-06-23"
   },
 ]
-var bannerList = [   'https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlHIibyAJPicvckDTOKSuccCZrVPWiaRNKpKrQe1bUwDkchXgBFWicZbe6TDUYI2LvRGfzIgCO0VRwt0TA/0?wx_fmt=jpeg',
-    'https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlFyccLpiaUfUfjumIRaJSfuJ3icQoTyWYFruTfnxwGjic4eEf09MibjxZqz1rnAwUIzuniaYPcW2Bm08hg/0?wx_fmt=jpeg',
-    'https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlG0CuWHyXI9sia3qEmVHvIvLKucUPoVT35Nz407WbZlwktrzqHqGaLibXl3JCW1dGSbiaiasntia4K8klg/0?wx_fmt=jpeg'
-  ]
+var bannerList = ['https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlHIibyAJPicvckDTOKSuccCZrVPWiaRNKpKrQe1bUwDkchXgBFWicZbe6TDUYI2LvRGfzIgCO0VRwt0TA/0?wx_fmt=jpeg',
+  'https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlFyccLpiaUfUfjumIRaJSfuJ3icQoTyWYFruTfnxwGjic4eEf09MibjxZqz1rnAwUIzuniaYPcW2Bm08hg/0?wx_fmt=jpeg',
+  'https://mmbiz.qpic.cn/mmbiz_jpg/UMDZj3FARlG0CuWHyXI9sia3qEmVHvIvLKucUPoVT35Nz407WbZlwktrzqHqGaLibXl3JCW1dGSbiaiasntia4K8klg/0?wx_fmt=jpeg'
+]
 // 定义数据出口
 module.exports = {
   detailList: dataList,

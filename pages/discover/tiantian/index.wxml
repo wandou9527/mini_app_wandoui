@@ -1,2 +1,8 @@
 <!--pages/discover/tiantian/index.wxml-->
-<text>pages/discover/tiantian/index.wxml</text>
+<!-- <text>pages/discover/tiantian/index.wxml</text> -->
+<view class="center_">
+  <text>
+    大家好 我是甜甜 看我美吗
+  </text>
+  <image src="/data/resource/image/tiantian/561568374103_.pic_hd.jpg" mode='widthFix' style="width:90%;" />
+</view>

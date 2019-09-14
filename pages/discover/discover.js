@@ -8,6 +8,18 @@ Page({
 
   },
 
+  yjPage: function() {
+    wx.navigateTo({
+      url: 'yj/index',
+    })
+  },
+
+  tiantianPage: function() {
+    wx.navigateTo({
+      url: 'tiantian/index',
+    })
+  },
+
   /**
    * 生命周期函数--监听页面加载
    */

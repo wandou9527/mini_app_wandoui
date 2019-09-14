@@ -1,0 +1,8 @@
+<view class="center_">
+  <text>
+    大家好 我是艳杰 看我美吗
+  </text>
+  <image src="/data/resource/image/WechatIMG57.jpeg" mode='widthFix' style="width:90%;" />
+  <!-- <image src="/data/resource/image/WechatIMG58.jpeg" mode='widthFix' style="width:90%;" /> -->
+  <!-- <image src="/data/resource/image/yj/611568388772_.pic.jpg" mode='widthFix' style="width:90%;" /> -->
+</view>
