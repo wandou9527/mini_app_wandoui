@@ -1,0 +1,5 @@
+/* pages/discover/tiantian/index.wxss */
+.center_{
+  text-align: center;
+}
+

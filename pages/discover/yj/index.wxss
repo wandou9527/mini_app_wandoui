@@ -1,0 +1,5 @@
+/* pages/discover/yj/index.wxss */
+.center_{
+  text-align: center;
+}
+
