@@ -4,5 +4,6 @@
   <text>
     大家好 我是甜甜 看我美吗
   </text>
-  <image src="/data/resource/image/tiantian/561568374103_.pic_hd.jpg" mode='widthFix' style="width:90%;" />
+  <image src="cloud://wadnou-8kwx5.7761-wadnou-8kwx5/image/WechatIMG62.jpeg" mode='widthFix' style="width:90%;" />
+  <image src="cloud://wadnou-8kwx5.7761-wadnou-8kwx5-1300233058/image/tiantian/561568374103_.pic_hd.jpg" mode='widthFix' style="width:90%;" />
 </view>

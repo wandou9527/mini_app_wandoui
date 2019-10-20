@@ -5,4 +5,5 @@
   <button type="primary" bindtap="yjPage">艳杰</button>
   <br/>
   <button type="primary" bindtap="tiantianPage">甜甜</button>
+  <button type="primary" bindtap="newsPage">新闻事件进展追踪</button>
 </view>
