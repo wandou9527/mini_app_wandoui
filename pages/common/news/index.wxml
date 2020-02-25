@@ -1,8 +1,23 @@
 <view>
-  <text>
+  <!-- <text>
     湖南操场埋尸案
     2019-06-24 湖南"操场埋尸案"最新进展：确认尸骸为邓世平 原校长黄炳松被查 【进展】
     http://baijiahao.baidu.com/s?id=1637137745391879964
-  </text>
-  <!-- <web-view src="http://baijiahao.baidu.com/s?id=1637137745391879964"></web-view> -->
+  </text> -->
+<!-- <web-view src="http://baijiahao.baidu.com/s?id=1637137745391879964"></web-view> -->
+
+  <view wx:for="{{accountList}}" wx:key="{{item.id}}">
+    <text>
+      日期: {{item.accountTime}}
+    </text>
+    <text>
+      {{item.remark}}   金额: {{item.amount/100}}元
+    </text>
+    <text>
+
+    </text>
+    -----------------------------
+  </view>
+
+
 </view>

@@ -6,7 +6,8 @@
     "pages/my/my",
     "pages/test/test",
     "pages/discover/discover",
-    "pages/common/news/index"
+    "pages/common/news/index",
+    "pages/discover/account/index"
   ],
   "window": {
     "backgroundTextStyle": "light",

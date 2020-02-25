@@ -1,4 +1,4 @@
-// pages/discover/discover.js
+// pages/discover/account/index.js
 Page({
 
   /**
@@ -6,30 +6,6 @@ Page({
    */
   data: {
 
-  },
-
-  newsPage: function() {
-    wx.navigateTo({
-      url: '/pages/common/news/index',
-    })
-  },
-
-  yjPage: function() {
-    wx.navigateTo({
-      url: 'yj/index',
-    })
-  },
-
-  tiantianPage: function() {
-    wx.navigateTo({
-      url: 'tiantian/index',
-    })
-  },
-
-  accountPage: function() {
-    wx.navigateTo({
-      url: 'pages/discover/account/index',
-    })
   },
 
   /**
