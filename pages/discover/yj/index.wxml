@@ -3,7 +3,8 @@
     大家好 我是艳杰 看我美吗
   </text>
   <image src="cloud://wadnou-8kwx5.7761-wadnou-8kwx5-1300233058/image/yj/571568386988_.pic_hd.jpg" mode='widthFix' style="width:90%;" />
-  <image src="http://py60whvx3.bkt.clouddn.com/591568388731_.pic.jpg" mode='widthFix' style="width:90%;" />
+  <!-- <image src="http://py60whvx3.bkt.clouddn.com/591568388731_.pic.jpg" mode='widthFix' style="width:90%;" /> -->
+  <image src="http://qn.wandour.top/591568388731_.pic.jpg" mode='widthFix' style="width:90%;" />
   <image src="cloud://wadnou-8kwx5.7761-wadnou-8kwx5-1300233058/image/yj/631568388843_.pic.jpg" mode='widthFix' style="width:90%;" />
   <image src="cloud://wadnou-8kwx5.7761-wadnou-8kwx5-1300233058/image/yj/611568388772_.pic.jpg" mode='widthFix' style="width:90%;" />
 </view>
